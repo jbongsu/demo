@@ -1,0 +1,4 @@
+logging:
+  level:
+    root: info
+    shutup.code.j002: debug
